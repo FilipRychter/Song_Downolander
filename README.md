@@ -1,0 +1,1 @@
+this is old project, I did't planed to finishing it so it is in state that works byt it is not very easy to use i dlete folders that shoud store music so if enyone wont to use it tou have to create folders. 
