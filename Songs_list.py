@@ -3,11 +3,11 @@ import requests
 
 
 # Ustawienia autoryzacji i nagłówki
-CLIENT_ID = '99d7d0fcf8ba4ebea83c9af7954b89be'
-CLIENT_SECRET = 'e3751ff3c4cd4c93b88a6a40b91ab3fa'
+CLIENT_ID = '99d7d0fcf8ba4ec9af7954b89be'
+CLIENT_SECRET = 'e3751ff3c4c988a6a40b91ab3fa'
 AUTH_URL = 'https://accounts.spotify.com/api/token'
 API_BASE_URL = 'https://api.spotify.com/v1'
-playlist_id = '1WdUGMG1CIBmoFTNyiirJx'
+playlist_id = '1WdUGMBmoFTNyiirJx'
 
 
 
